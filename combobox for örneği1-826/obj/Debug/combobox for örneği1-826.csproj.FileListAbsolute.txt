@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\bin\Debug\combobox for örneği1-826.exe.config
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\bin\Debug\combobox for örneği1-826.exe
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\bin\Debug\combobox for örneği1-826.pdb
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox_for_örneği1_826.Form1.resources
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox_for_örneği1_826.Properties.Resources.resources
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.exe
+C:\Users\User\source\repos\combobox for örneği1-826\combobox for örneği1-826\obj\Debug\combobox for örneği1-826.pdb
